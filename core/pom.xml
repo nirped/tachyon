@@ -135,7 +135,7 @@
 	<artifactId>hadoop-aws</artifactId>
 	<version>2.6.0</version>
 </dependency>
-x
+
     <dependency>
 	<groupId>net.java.dev.jets3t</groupId>
 	<artifactId>jets3t</artifactId>
